@@ -14,7 +14,7 @@
 
 
     <!-- Define app icon for each platform. -->
-    <icon src="uic-logo.jpg" />
+    <icon src="pic1.jpg" />
 
     <!--
     <icon src="icon/android/icon-36-ldpi.png"   gap:platform="android"    gap:qualifier="ldpi" />
